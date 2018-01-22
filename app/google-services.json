@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601220422071",
+    "firebase_url": "https://mayday911-51e8e.firebaseio.com",
+    "project_id": "mayday911-51e8e",
+    "storage_bucket": "mayday911-51e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601220422071:android:d1f36126d762f459",
+        "android_client_info": {
+          "package_name": "com.example.alienetworx.mayday911"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601220422071-1fl5av6lfc8gu0fi1llqbeqkhgguanmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alienetworx.mayday911",
+            "certificate_hash": "b11020a828168e8c547089a55fb265905c5145ab"
+          }
+        },
+        {
+          "client_id": "601220422071-pde4214m1d5noaq27ru02s4thkep5h4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexjFE-He0mooKld2s1voSDerM95t1-3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601220422071-pde4214m1d5noaq27ru02s4thkep5h4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
